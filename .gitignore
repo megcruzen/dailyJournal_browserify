@@ -1,7 +1,6 @@
 .DS_Store
-    node_modules
-    package-lock.json
-    dist/
-    database.json
-    bundle.js
-    
+node_modules
+package-lock.json
+dist/
+database.json
+bundle.js
